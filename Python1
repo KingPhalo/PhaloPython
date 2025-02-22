@@ -1,0 +1,79 @@
+Natural vs Programming Languages
+
+
+A language is a means (and a tool) for expressing and recording thoughts.
+ There are many languages all around us. Some of them require neither speaking nor writing, such as body language; 
+it's possible to express your deepest feelings very precisely without saying a word.
+
+Another language you use each day is your mother tongue, which you use to manifest your will and to ponder reality.
+ Computers have their own language, too, called machine language, which is very rudimentary.
+
+A computer, even the most technically sophisticated, is devoid of even a trace of intelligence.
+ You could say that it is like a well-trained dog - it responds only to a predetermined set of known commands.
+
+The commands it recognizes are very simple.
+ We can imagine that the computer responds to orders like "take that number, divide by another and save the result".
+
+
+A complete set of known commands is called an instruction list, sometimes abbreviated to IL.
+ Different types of computers may vary depending on the size of their ILs,
+ and the instructions could be completely different in different models.
+
+No computer is currently capable of creating a new language.
+
+ However, that may change soon. Just as people use a number of very different languages,
+ machines have many different languages, too. The difference, though, is that human languages developed naturally.
+
+
+Moreover, they are still evolving, and new words are created every day as old words disappear. 
+These languages are called natural languages.
+
+
+
+alphabet- a set of symbols used to build words of a certain language
+
+lexis- (aka- a dictionary) a set of words the language offers its users
+
+syntax-  a set of rules used to determine if a certain string of words form a valid 
+sentences
+
+semantics- a set of rules determining if a certain phrase makes sense.
+
+
+
+Machine Language vs High-Level language
+
+
+The IL is, in fact, the alphabet of a machine language.
+ This is the simplest and most primary set of symbols we can use to give commands to a computer.
+ It's the computer's mother tongue.
+
+Unfortunately, this mother tongue is a far cry from a human mother tongue.
+ We both (computers and humans) need something else, a common language for computers and humans,
+ or a bridge between the two different worlds.
+
+We need a language in which humans can write their programs and a language that computers may use to execute the programs,
+ one that is far more complex than machine language and yet far simpler than natural language.
+
+
+
+
+Compilation vs. Interpretation
+
+
+
+Computer programming is the act of composing the selected programming language's elements in the order that will cause the desired effect. The effect could be different in every specific case – it's up to the programmer's imagination, knowledge and experience.
+
+Of course, such a composition has to be correct in many senses:
+
+alphabetically – a program needs to be written in a recognizable script, such as Roman, Cyrillic, etc.
+lexically – each programming language has its dictionary and you need to master it; thankfully, it's much simpler and smaller than the dictionary of any natural language;
+syntactically – each language has its rules and they must be obeyed;
+semantically – the program has to make sense.
+
+
+Advantages and Disadvantages
+
+
+
+
