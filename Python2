@@ -1,0 +1,21 @@
+What is Python?
+Python is a widely-used, interpreted, object-oriented, and high-level programming language with dynamic semantics,
+ used for general-purpose programming.
+
+
+Python 2 vs. Python 3
+There are two main kinds of Python, called Python 2 and Python 3.
+
+Python 2 is an older version of the original Python.
+ Its development has since been intentionally stalled,
+ although that doesn't mean that there are no updates to it.
+ On the contrary, the updates are issued on a regular basis, but they are not intended to modify the language in any significant way.
+ They rather fix any freshly discovered bugs and security holes.
+ Python 2's development path has reached a dead end already, 
+but Python 2 itself is still very much alive.
+
+Python 3 is the newer (or to be more precise, the current) version of the language. 
+It's going through its own evolutionary path, creating its own standards and habits.
+
+
+X

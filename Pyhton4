@@ -1,0 +1,26 @@
+Operators and their Priorities
+
+Python precisely defines the priorities of all operators, and assumes that operators of a higher priority perform 
+their operations before the operators of a lower priority.
+
+Operators and their bindings
+The binding of the operator determines the order of computations performed by some operators with equal priority, put side by side in one expression.
+
+Most of Python's operators have left-sided binding, which means that the calculation of the expression is conducted from left to right
+
+
+The exponentation operatior has a right to left binding
+The other operators have a left to right binding.
+
+PRIORITY               OPERATOR
+
+1-                     **     
+
+2-                     +,- unary operators located to the right of the power operator bind stronger
+
+3-                     *, /, //, %  
+
+4-                     +, - (binary)
+
+
+
